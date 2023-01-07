@@ -2,7 +2,7 @@
 
 List books, see the authors. Recommendations based on your favourite genre.
 
-![](authors.jpg)
+<img src="authors.jpg" width="500">
 
 - React
 - Node
