@@ -1,0 +1,39 @@
+.navButton {
+  background-color: #508991;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+}
+
+.navButton:hover {
+  background-color: #2b4b4f;
+  color: white;
+}
+
+.logButton {
+  background-color: #1d3235;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  border-radius: 0 5px 5px 0;
+}
+
+.logButton:hover {
+  background-color: #2b4b4f;
+  color: white;
+}
+
+.page {
+  padding: 5px;
+  margin: 20px;
+}
